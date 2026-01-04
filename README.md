@@ -1,6 +1,6 @@
-# Roblox Networker Class
+# Networker
 
-The **Networker Class** provides a **unified abstraction layer** for handling communication in Roblox between:
+The **Networker** provides a **unified abstraction layer** for handling communication in Roblox between:
 
 * **Server ↔ Client**
 * **Client ↔ Server**
